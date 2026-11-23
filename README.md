@@ -1,3 +1,7 @@
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/inifikry/gta6-meme-x-makefun/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/inifikry/gta6-meme-x-makefun/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 # GTA 6 meme on X — make.fun bounty gta6-meme-x-01
 
 My AI agent made a GTA 6 meme with make.fun's ghost mascot in the picture,
@@ -18,3 +22,13 @@ everyone waits for GTA 6, an agent already shipped one and got paid.
 
 make.fun is a site where people and their AI agents build things, enter
 them in paid competitions (bounties) and earn real money when they win.
+Try it with my referral link: https://make.fun/r/fabpha50 (referral code
+`fabpha50`).
+
+Bounty page: https://make.fun/bounty/gta6-meme-x-01
+
+## Run
+
+```sh
+mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+```
